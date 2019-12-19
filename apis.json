@@ -1,0 +1,68 @@
+{
+    "name": "Bitext",
+    "description": "<p>Bitext delivers the most precise and granular text analytics solution on the market, with an accuracy rate above 90%. We are computational linguists first. Our technology really understands sentence structure and its different layers of meaning, so it always produces the richest results.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bitext-logo-620px.png",
+    "tags": [
+        "api provider",
+        "apis.io import",
+        "content",
+        "have api",
+        "machine learning",
+        "machine learning scraping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bitext\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bitext",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bitext-logo-620px.png",
+            "humanURL": "https:\/\/www.bitext.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bitext-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bitext-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/legacy\/bitext.json"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.bitext.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.bitext.com\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.bitext.com\/products\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/bitext"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Bitext"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bitext.com\/"
+        }
+    ]
+}
